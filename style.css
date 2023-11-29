@@ -1,0 +1,63 @@
+
+.fontW{
+    color: white;    
+}
+.nav-item{
+    margin-left: 30px;
+}
+.bgCol{
+    background-color:black;
+    height: 60px;
+    
+}
+.kozepre{
+    
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    position: fixed; 
+ 
+    width: 100%; 
+    
+}
+body{
+    background-image: url(../img/Logo\(1\).jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+   
+    
+}
+.nav-link:hover{
+    color: green;
+}
+h1{
+    text-align: center;
+    color:black;
+    padding-top: 10%;
+}
+h2{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+.kep{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+
+}
+.kep1{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+.kep2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%
+}
